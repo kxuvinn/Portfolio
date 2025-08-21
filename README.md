@@ -1,3 +1,3 @@
-## 2025 Code-It Summer Project
+## 🌿2025 Code-It Summer Project
 
 https://xuvin.vercel.app/
