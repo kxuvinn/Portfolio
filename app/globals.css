@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 제목 폰트 */
+.font-display { font-family: var(--font-display), serif; }
+
+/* 내비게이션 */
+.font-nav { font-family: var(--font-nav), system-ui, sans-serif; }
+
+/* 본문 기본 글꼴 */
+.font-body {
+  font-family: "Gulim", "Malgun Gothic", "Apple SD Gothic Neo",
+               "Noto Sans KR", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* 가독성 */
+p { line-height: 1.9; }
